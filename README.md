@@ -1,5 +1,6 @@
 <h1>Ismail Irfan</h1>
 <br><br><br>
-![image](https://github.com/Ismailirfan/Ismailirfan.github.io/assets/98257637/bdad0d86-3b3d-4885-a376-908584184e84)
+<img src="![image](https://github.com/Ismailirfan/Ismailirfan.github.io/assets/98257637/a0be120e-c7fd-4031-875e-8b3ffd709c90)
+">
 
 
