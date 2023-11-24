@@ -8,8 +8,8 @@
         img
         {
             border-radius: 50%;
-            height: auto;
-            width: auto;
+            height: 100px;
+            width: 100px;
         }
     </style>
 </head>
