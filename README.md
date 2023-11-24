@@ -12,7 +12,7 @@
 <h3>Contact me:</h3>
 WhatsApp: <a href="tel: +923188353385">+923188353385</a><br>
 Email: <a href="email: ismailirfan1200@gmail.com">ismailirfan1200@gmail.com</a><br>
-LinkedIn: <a href="https://www.linkedin.com/in/ismail-irfan-9b0063230/"></a><br>
+LinkedIn: <a href="https://www.linkedin.com/in/ismail-irfan-9b0063230/">www.linkedin.com/ismail-irfan</a><br>
 <h2>About Me</h2>
 <p>
     Hello! I'm Ismail Irfan, a versatile professional with a skill set that spans back-end data handling, UI/UX design, and social platform management. Based in Karachi, I bring a strong background in UI/UX and Wordpress development to the table.
