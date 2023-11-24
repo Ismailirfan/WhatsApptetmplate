@@ -1,10 +1,3 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-</head>
-<body>
     <h1>Ismail Irfan</h1>
     <h2>UI/UX developer</h2>
 <br>
@@ -23,7 +16,3 @@ LinkedIn: <a href="https://www.linkedin.com/in/ismail-irfan-9b0063230/"></a><br>
 <p>
     Beyond development, I am adept at fostering relationships across various social platforms. I understand the importance of a cohesive online presence and enjoy creating connections that enhance brand visibility and engagement.
 </p>
-</body>
-</html>
-</body>
-</html>
